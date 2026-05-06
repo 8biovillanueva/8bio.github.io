@@ -1,0 +1,47 @@
+[
+  {
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "nombre": "Zócalo de la Ciudad de México",
+    "descripcion": "La plaza principal del Centro Histórico",
+    "categoria": "Turismo",
+    "direccion": "Plaza de la Constitución S/N, Centro",
+    "telefono": ""
+  },
+  {
+    "lat": 19.4262,
+    "lng": -99.1357,
+    "nombre": "Palacio de Bellas Artes",
+    "descripcion": "Impresionante edificio art déco y neoclásico",
+    "categoria": "Cultura",
+    "direccion": "Av. Juárez S/N, Centro",
+    "telefono": "+52 55 1234 5678"
+  },
+  {
+    "lat": 19.4424,
+    "lng": -99.1335,
+    "nombre": "Monumento a la Revolución",
+    "descripcion": "Mirador espectacular y museo",
+    "categoria": "Monumento",
+    "direccion": "Plaza de la República S/N, Tabacalera",
+    "telefono": ""
+  },
+  {
+    "lat": 19.4232,
+    "lng": -99.1685,
+    "nombre": "Castillo de Chapultepec",
+    "descripcion": "Hermoso castillo con vista panorámica",
+    "categoria": "Historia",
+    "direccion": "Primera Sección del Bosque de Chapultepec",
+    "telefono": ""
+  },
+  {
+    "lat": 19.4364,
+    "lng": -99.1441,
+    "nombre": "Museo Soumaya",
+    "descripcion": "Arte contemporáneo y antiguo",
+    "categoria": "Museo",
+    "direccion": "Blvd. Miguel de Cervantes Saavedra 303, Granada",
+    "telefono": "+52 55 1234 9101"
+  }
+]
