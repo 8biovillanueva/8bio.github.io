@@ -106,5 +106,41 @@
     "categoria": "",
     "direccion": "Manzana 005, Parque Residencial Coacalco, 55714 San Francisco Coacalco, Méx.",
     "telefono": ""
+  },
+  {
+    "lat": 16.7539,
+    "lng": -93.155843,
+    "nombre": "UNACH",
+    "descripcion": "UNACH",
+    "categoria": "",
+    "direccion": "Blvd. Belisario Domínguez Km. 1081, Sin Número, Terán, 29050 Tuxtla",
+    "telefono": ""
+  },
+  {
+    "lat": 16.753736,
+    "lng": -93.136231,
+    "nombre": "Walmart Belisario Domínguez",
+    "descripcion": "Walmart Belisario Domínguez",
+    "categoria": "",
+    "direccion": "Blvd. Belisario Domínguez 2058, Fraccionamiento Las Arboledas,",
+    "telefono": ""
+  },
+  {
+    "lat": 16.749945,
+    "lng": -93.151938,
+    "nombre": "KIA",
+    "descripcion": "KIA",
+    "categoria": "",
+    "direccion": "Flamboyant, Flamboyán, 29059 Tuxtla Gutiérrez, Chis.",
+    "telefono": ""
+  },
+  {
+    "lat": 16.759684,
+    "lng": -93.175369,
+    "nombre": "Bodega Aurrera",
+    "descripcion": "Bodega Aurrera",
+    "categoria": "",
+    "direccion": "Blvd. Belisario Domínguez, La Gloria, 29038 Tuxtla Gutiérrez, Chis.",
+    "telefono": ""
   }
 ]
