@@ -1,6 +1,6 @@
 // ========== CONFIGURACIÓN ==========
 // Puedes cambiar esta URL por tu archivo JSON local o remoto
-const JSON_URL = 'lugares.json';  // Archivo local en la misma carpeta
+const JSON_URL = '../data/lugares.json';  // Archivo local en la misma carpeta
 // También puedes usar una URL remota: 'https://tusitio.com/datos/lugares.json'
 
 let map = null;
@@ -74,11 +74,7 @@ async function loadPlacesFromJSON() {
         
         // Datos de ejemplo por si no encuentra el archivo
         placesData = [
-            { lat: 19.4326, lng: -99.1332, nombre: "Zócalo CDMX", descripcion: "Centro histórico", categoria: "Turismo" },
-            { lat: 19.4262, lng: -99.1357, nombre: "Palacio de Bellas Artes", descripcion: "Arquitectura impresionante", categoria: "Cultura" },
-            { lat: 19.4424, lng: -99.1335, nombre: "Monumento a la Revolución", descripcion: "Mirador espectacular", categoria: "Monumento" },
-            { lat: 19.4232, lng: -99.1685, nombre: "Castillo de Chapultepec", descripcion: "Vista increíble de la ciudad", categoria: "Historia" },
-            { lat: 19.4364, lng: -99.1441, nombre: "Museo Soumaya", descripcion: "Arte contemporáneo", categoria: "Museo" }
+           
         ];
         renderPlaces(placesData);
     }

@@ -43,5 +43,68 @@
     "categoria": "Museo",
     "direccion": "Blvd. Miguel de Cervantes Saavedra 303, Granada",
     "telefono": "+52 55 1234 9101"
+  },
+  {
+    "lat": 19.460662,
+    "lng": -99.071893,
+    "nombre": "Zoológico de San Juan de Aragón",
+    "descripcion": "",
+    "categoria": "",
+    "direccion": "07920 Ciudad de México, CDMX",
+    "telefono": ""
+  },
+  {
+    "lat": 19.436503,
+    "lng": -99.072107,
+    "nombre": "Aeropuerto internacional de México",
+    "descripcion": "Terminal 2",
+    "categoria": "",
+    "direccion": "07920 Ciudad de México, CDMX",
+    "telefono": ""
+  },
+  {
+    "lat": 19.632456,
+    "lng": -99.124781,
+    "nombre": "Cosmopol",
+    "descripcion": "",
+    "categoria": "",
+    "direccion": "Av. José López Portillo 1, Bosques del Valle, 55717 San Francisco Coacalco, Méx.",
+    "telefono": ""
+  },
+  {
+    "lat": 19.637045,
+    "lng": -99.097381,
+    "nombre": "Walmart",
+    "descripcion": "Walmart",
+    "categoria": "",
+    "direccion": "Av. José López Portillo 101, Villa de las Flores, 55710 San Francisco Coacalco, Méx.",
+    "telefono": ""
+  },
+  {
+    "lat": 19.634034,
+    "lng": -99.094377,
+    "nombre": "Colegio Lucerna",
+    "descripcion": "Colegio Lucerna",
+    "categoria": "",
+    "direccion": "Av. José López Portillo 123, Villa de las Flores, 55710 San Francisco Coacalco, Méx.",
+    "telefono": ""
+  },
+  {
+    "lat": 19.630638,
+    "lng": -99.114246,
+    "nombre": "TESCO",
+    "descripcion": "TESCO",
+    "categoria": "",
+    "direccion": "032, Coacalco, 55700 San Francisco Coacalco, Méx.",
+    "telefono": ""
+  },
+  {
+    "lat": 19.626798,
+    "lng": -99.08206,
+    "nombre": "Plaza Coacalco",
+    "descripcion": "Plaza Coacalco",
+    "categoria": "",
+    "direccion": "Manzana 005, Parque Residencial Coacalco, 55714 San Francisco Coacalco, Méx.",
+    "telefono": ""
   }
 ]
